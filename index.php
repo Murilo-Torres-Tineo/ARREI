@@ -23,6 +23,7 @@
     <br><br>
     <a href="exer7.php">Alunos de Duas Turmas</a>
     <br><br>
+    <a href="./controle-produtos/CTRLP.php">Controle de Produtos</a>
 
     <hr>
 
